@@ -1,0 +1,30 @@
+_repo: Sioux-Indian-Courts--13-An-address-delivered-by-Doane-Robinson-before-the-South-Dakota-Bar-As__26021
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Robinson, Doane
+    birthdate: 1856
+    deathdate: 1946
+    gutenberg_agent_id: '31743'
+    url: http://www.gutenberg.org/2009/agents/31743
+description: ''
+gutenberg_bookshelf: Native America
+gutenberg_issued: '2008-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26021'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dakota Indians -- Courts'
+- !lcsh 'Indian courts'
+- !lcc 'KF'
+- !lcsh 'Dakota Indians -- Politics and government'
+title: "Sioux Indian Courts\r\nAn address delivered by Doane Robinson before the South\
+  \ Dakota Bar Association, at Pierre, South Dakota, January 21, 1909"
+url: http://www.gutenberg.org/ebooks/26021
